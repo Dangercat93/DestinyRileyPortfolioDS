@@ -1,0 +1,5 @@
+Requirements:
+You have a bag filled with jellybeans of three different colors: pink, green, and yellow and 3 cups that cannot be moved arranged in a line in front of you. The end result should be that all the jellybeans have been removed from the bag and placed into cups. Each cup should only contain 1 color. The jellybeans should be placed into the cups so that the pile that is the smallest is on the left, and the pile that is the largest is on the right. Jellybeans cannot be placed anywhere except in the bag or in a cup.
+
+Answer:
+In order to sort the jellybeans by color, I would increase the surface area of the bag's material by cutting a slit in it, careful not to spill any, and use it as a placemat to sort the jellybeans by color.  Once sorted into color piles, it will be easier to visually decide the size of each group.  If not obvious by visual confirmation, I would count the jellybeans before putting them into their respective cups.
