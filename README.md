@@ -1,2 +1,1 @@
-# Destiny Riley's Data Science Portfolio
-A collection of my favorite data science projects & assignments from my time in the Woz-U data science boot camp.
+[DS ReadMe.pdf](https://github.com/Dangercat93/DestinyRileyPortfolioDS/files/8855924/DS.ReadMe.pdf)
